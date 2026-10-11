@@ -1,0 +1,11 @@
+bin/
+obj/
+build/
+dist/
+__pycache__/
+*.pyc
+*.pdb
+*.dmp
+*.ninfer
+*.gguf
+*.safetensors
