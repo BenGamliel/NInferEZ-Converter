@@ -29,3 +29,11 @@ their native runtime files in the current user's temporary folder on first launc
 - [Backend JSON API](docs/BACKEND.md)
 - [Supported sources and validation](docs/QA.md)
 - Distribution hashes and runtime metadata: `docs/distribution/`
+
+## NInferEZ ecosystem
+
+[Manager](https://github.com/BenGamliel/NInferEZ-Manager) includes this conversion
+workflow alongside model and API management.
+[Engine](https://github.com/BenGamliel/NInferEZ-Engine) runs supported converted
+artifacts. [NInferEZ models](https://huggingface.co/collections/2beng2/ninferez-models-6acb588de431a8f2d59fc6e1)
+are available separately; this package does not contain model weights.
