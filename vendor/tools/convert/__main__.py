@@ -1,3 +1,4 @@
+# Modified by NInferEZ Converter in 2026: Propagate optional shard-location overrides.
 """Convert explicitly selected local weights into a NInfer v3 artifact."""
 
 from __future__ import annotations

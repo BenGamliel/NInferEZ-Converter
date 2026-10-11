@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Modified by NInferEZ Converter in 2026: Progress/cancellation hooks, Windows publication, and optional shard size.
 """One-time, standard-library upgrade of the seven known official NInfer v2 inputs.
 
 Run: python3 upgrade_ninfer_v2_to_v3.py INPUT.ninfer OUTPUT.ninfer

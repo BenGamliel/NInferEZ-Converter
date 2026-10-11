@@ -1,3 +1,4 @@
+# Modified by NInferEZ Converter in 2026: Windows atomic no-overwrite publication instead of hard links.
 """Bounded v3 object writes with one fixed directory and logical payload space."""
 
 from __future__ import annotations

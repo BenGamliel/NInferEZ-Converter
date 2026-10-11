@@ -1,3 +1,4 @@
+# Modified by NInferEZ Converter in 2026: Explicitly release GGUF memory mappings on context exit.
 """Read GGUF tensors (F16 or any ggml quant level) as a named conversion source.
 
 `tools.convert` normally reads the base checkpoint straight from Safetensors

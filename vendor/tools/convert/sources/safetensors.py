@@ -1,3 +1,4 @@
+# Modified by NInferEZ Converter in 2026: External metadata/shard overrides, UTF-8 BOM, and case-insensitive extensions.
 """Local Safetensors headers, indexes, bounded reads, and direct tensor views."""
 
 from __future__ import annotations

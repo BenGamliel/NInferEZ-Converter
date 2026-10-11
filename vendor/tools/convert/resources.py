@@ -1,3 +1,4 @@
+# Modified by NInferEZ Converter in 2026: Accept UTF-8 BOM in resource metadata.
 """Select final resource bytes and derive the tokenizer's public token domain."""
 
 from __future__ import annotations
